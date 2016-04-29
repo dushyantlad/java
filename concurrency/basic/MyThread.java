@@ -1,4 +1,4 @@
-
+//This is sample
 
 class MyThread extends Thread {
 
